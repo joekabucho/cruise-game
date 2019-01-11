@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Ocarina\Zora\Assets\Script\Motor\State\FallingState.cs">
+    <Files>
+      <File FileName="..\Ocarina\Zora\Assets\Script\Motor\BaseMotor.cs" Line="38" Column="3" />
+      <File FileName="..\Ocarina\Zora\Assets\Script\Motor\State\FallingState.cs" Line="8" Column="32" />
+      <File FileName="..\Ocarina\Zora\Assets\Script\Motor\State\WalkingState.cs" Line="13" Column="27" />
+      <File FileName="..\Ocarina\Zora\Assets\Script\Motor\State\BaseState.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
